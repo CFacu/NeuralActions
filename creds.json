@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neuralactions-practicas",
+  "private_key_id": "673268f50db579ef85ed8a1784376718153ed15d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZkwI6DZMC8tfK\nspRQAOtEk2KDhWKr25hpXKLTp9oscVBT57RJechJwspY38Ua8VteArLnr3LBeDPT\njJXYvqFPdYs5npDXVwrFxbchUCcTBQ/GpQeGdXXlUW1hDBXrm6Iv0ZpzhjlOllW+\ntzDTRIS60Kb5Hg7fzPKYp/T5yx4+jPoQU33MUgGmVqgyb6labuWW7uoZZIlqV0O+\n5PZMwmSrXBnmOn59xpD/4nqiIflyA/gH4kvX86w7UJDM5Pw8/tGoyKw+oMNgEWrt\n/8PotXsbemzu8DRSKwdlOjCiy28wTTo5ZW+/NMZPnjvfiX9G2jPMmynF+JNfwH0s\ndK9rAvvVAgMBAAECggEANR1VWtS7genE0l/8IvfGd4w/bXofl3LZZ0dNHLyKX3Ue\nNg2HjrRjN9aMzVt7Y9NuCapBAJxtOFve0xMr9ai7+ojofx19oIRIRfW5ejF2CIeg\nzU62YpXEPUI+oIVxyH3K/z99JBytWskKj69rBPhiKrULPh+fY/VFeAzwmhaDAKO4\nkn8t/J2U9hpK2fXIs6OxPI2jVaemvWlCpoyWqAWER65tQ9J36LeNxKJ+tR2e6pbV\ntSOe80nFNyDk66MFU2W30BOXyHRUNf9AR1/ong0onvOrd5TBQ284nxwjdvVnFmjm\nzWXvCI2s1Oo0ZNO90qYVy/t42yqEs9pjLlzateGkVQKBgQDznJSv4WkUpHPYSe/0\nvKMoxjwIZYD08Ffc6CRu4VvMDF6acMA8B1nbXzM0y129JO25VtaaJIwPdw2bHlX4\nK/nybVVYlFDApLySXeV17Je91IWpVTag51DMsEDYSwF8BTzikVu7Xhy6cLY+6O/p\nTR7ePZkULFG4z8N2X2XpPaPrqwKBgQDko3bbK3LkqO6vhKR3Gg2lzUbL8+CQw2kF\n+Mxh50cZ9DdbvZ1GK/8gerXHnP9oH98+pN0ZCWYJRWNMA8fqgZXajBbLl469bRx0\nOgOt6VWm8CFJw83R0XmhYUros9APv77MRFLrFDKiRUvIDCawMeWR2WyrbGEC8WrC\nyOWaNfE2fwKBgFzoIISbMNoghdW9DPiHYKpSP97r5yyC5N9o4UwwQjQlm4bG7Wl3\nXDufqQW/cXaLOOZwSdPrkEbtnpDEFwFYtDBSpjPsDIgLy6b+jF5W5uAMxxT3XKgs\nz9Hgfjp/EIfd74Rw700b7VTlW3vOloChWt5jG5hn9prHEcJ5S4KScYuVAoGBAIzF\ntKWHH+t3s9Yvhg+q4+JE/KUQmCCpoB1ELZrOCnIJcpgyrAYLir7VrtyjZoIWtZ5d\nZaBHsCJfLZ8c6NcTSE/SVyqtOv6Ykp9hJOjMNKdfTC+dtjjMj+X0AGo8ZAt+VJxy\nKNeCjRZqMhmOmbd8UUu2ofj99tEYEVKy3ONQ+R5DAoGBAMQQ7l01Vk/i/qmPvR1b\n80FKnfbH92+EubzImMN25C9npx/sVgH6poBcblE+pULBzlJBwwIIHIWiQS10DcrW\n4nAY4K5EuXPjzphjUdoN247UhKLe8MwGe+V0C1uuuK+gjg9DaxfEjz5x5pBWh2bi\n37NfcO5qfqEnq6OMGMtvOiqu\n-----END PRIVATE KEY-----\n",
+  "client_email": "nafacu@neuralactions-practicas.iam.gserviceaccount.com",
+  "client_id": "114664748276475035116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nafacu%40neuralactions-practicas.iam.gserviceaccount.com"
+}
